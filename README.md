@@ -1,4 +1,4 @@
-# Hi, I'm Juan Agustin Gallo 👋
+# Hi, I'm Agustin Gallo 👋
 
 Advanzed **Computer Engineering** student based in Catamarca, Argentina, focused on **computer vision and applied AI**.
 
@@ -7,8 +7,10 @@ I like problems where a camera and a model can replace an expensive sensor — c
 - 🔭 Working on: [swim-stroke-analyzer](https://github.com/AgusGall0/swim-stroke-analyzer) — biomechanical analysis of swimming strokes with MediaPipe + OpenCV
 - 🌱 Learning: FastAPI, Docker and testing, to pair my CV work with solid backend fundamentals
 - 🗣️ Languages: Spanish (native),English — Advanced (C1 listening/reading, B2 speaking/writing). No formal certification.
-- 📫 Reach me: [TU EMAIL] · [linkedin.com/in/TU-USUARIO](https://linkedin.com/in/TU-USUARIO)
+- 📫 Reach me: [juanagustin09@gmail.com
 - 💼 Open to junior / trainee / internship roles, remote or hybrid
+
+
 ## Publications & conference talks
  
 **Development of a mobile application for livestock classification in the province of Catamarca**
@@ -30,7 +32,7 @@ Gallo, P. J., **Gallo, J. A.**, & Aranda, M. D. X Jornadas Estudiantiles de Inve
 Python · SQL (PostgreSQL / PL-pgSQL) ·  C / C#  · JavaScript · HTML/CSS
 
 **Computer vision & AI**
-OpenCV · MediaPipe · NumPy ·[PyTorch · TensorFlow
+OpenCV · MediaPipe · NumPy ·PyTorch · TensorFlow
 
 **Tools**
 Git · GitHub · Linux · Docker · VS Code 
@@ -40,8 +42,6 @@ Git · GitHub · Linux · Docker · VS Code
 ## Certifications & training
 
 - **[Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=f-3sTbh5Qu2C0S9FnfFsUg)** — NVIDIA Deep Learning Institute, Certificate of Competency, March 2025
-- **[NOMBRE DEL CURSO DE VISIÓN POR COMPUTADORA]** — [INSTITUCIÓN], [AÑO]
-- **[OTRO CURSO]** — [INSTITUCIÓN], [AÑO]
 
 ---
 
@@ -50,4 +50,4 @@ Git · GitHub · Linux · Docker · VS Code
 | Project | Description | Stack |
 |---|---|---|
 | [swim-stroke-analyzer](https://github.com/AgusGall0/swim-stroke-analyzer) | Tracks 33 body landmarks from swimming video and computes joint angles to analyse front-crawl technique | Python, OpenCV, MediaPipe |
-| [ProyectoIntegradorBD](https://github.com/AgusGall0/ProyectoIntegradorBD) |  | PostgreSQL, PL/pgSQL |
+| [ProyectoIntegradorBD](https://github.com/AgusGall0/ProyectoIntegradorBD) | Inventory database for a multi-branch sportswear retailer: 12 tables in 3NF, stock per variant, PL/pgSQL business logic, role-based access and index tuning on programmatically generated data | PostgreSQL, PL/pgSQL |
