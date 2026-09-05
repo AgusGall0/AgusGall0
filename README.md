@@ -9,7 +9,19 @@ I like problems where a camera and a model can replace an expensive sensor — c
 - 🗣️ Languages: Spanish (native),English — Advanced (C1 listening/reading, B2 speaking/writing). No formal certification.
 - 📫 Reach me: [TU EMAIL] · [linkedin.com/in/TU-USUARIO](https://linkedin.com/in/TU-USUARIO)
 - 💼 Open to junior / trainee / internship roles, remote or hybrid
-
+## Publications & conference talks
+ 
+**Development of a mobile application for livestock classification in the province of Catamarca**
+Gallo, P. J., **Gallo, J. A.**, & Aranda, M. D. (2024). In *Memorias del XII Congreso Nacional de Ingeniería en Informática y Sistemas de Información (CoNaIISI 2024)*, pp. 1247–1250. Editorial Científica Universitaria, Universidad Nacional de Catamarca. Open Access, CC BY-NC-SA 4.0.
+ 
+Trained a four-class image classifier — two cattle breeds (Angus, Criolla Argentina), sheep and goat — on a balanced 4,000-image dataset over 50 epochs. The model was converted to TensorFlow Lite and deployed to an Android application using MediaPipe for real-time on-device inference, running without cloud connectivity so it can be used in the field with no additional infrastructure. Part of the research project *"Machine learning applied to development quality in precision livestock farming"*, with the IoT Research Group (GIIoT).
+ 
+`TensorFlow` · `TensorFlow Lite` · `MediaPipe` · `Python` · `Android` · `Jupyter / Colab`
+ 
+**Computer Vision Applied to Precision Livestock Farming** — *oral presentation*
+Gallo, P. J., **Gallo, J. A.**, & Aranda, M. D. X Jornadas Estudiantiles de Investigación e Innovación Tecnológica, Facultad de Tecnología y Ciencias Aplicadas, Universidad Nacional de Catamarca, October 2024. Presenting author.
+ 
+ 
 ---
 
 ## Tech stack
