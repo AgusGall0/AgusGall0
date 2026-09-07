@@ -7,7 +7,7 @@ I like problems where a camera and a model can replace an expensive sensor — c
 - 🔭 Working on: [swim-stroke-analyzer](https://github.com/AgusGall0/swim-stroke-analyzer) — biomechanical analysis of swimming strokes with MediaPipe + OpenCV
 - 🌱 Learning: FastAPI, Docker and testing, to pair my CV work with solid backend fundamentals
 - 🗣️ Languages: Spanish (native),English — Advanced (C1 listening/reading, B2 speaking/writing). No formal certification.
-- 📫 Reach me: [juanagustin09@gmail.com
+- 📫 Reach me: juanagustin09@gmail.com
 - 💼 Open to junior / trainee / internship roles, remote or hybrid
 
 
