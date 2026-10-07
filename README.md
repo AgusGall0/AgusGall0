@@ -7,7 +7,7 @@ I like problems where a camera and a model can replace an expensive sensor — c
 - 🔭 Working on: [swim-stroke-analyzer](https://github.com/AgusGall0/swim-stroke-analyzer) — biomechanical analysis of swimming strokes, from raw video to quantitative kinematics
 - 🔬 Student member of **GSICAR** (Intelligent Systems and High-Performance Computing Research Group), FTyCA – UNCa
 - 🌱 Learning: FastAPI, to pair my CV and data work with solid backend fundamentals
-- 🗣️ Languages: Spanish (native) · English (advanced — C1 reading/listening, B2 speaking/writing)
+- 🗣️ Languages: Spanish (native) · English (advanced)
 - 📫 Reach me: juanagustin09@gmail.com
 - 💼 Open to junior / trainee / internship roles, remote or hybrid
 
