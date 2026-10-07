@@ -8,7 +8,7 @@ I like problems where a camera and a model can replace an expensive sensor — c
 - 🔬 Student member of **GSICAR** (Intelligent Systems and High-Performance Computing Research Group), FTyCA – UNCa
 - 🌱 Learning: FastAPI, to pair my CV and data work with solid backend fundamentals
 - 📫 Reach me: juanagustin09@gmail.com
-- 💼 Open to junior / trainee / internship roles, remote or hybrid
+
 
 ---
 
